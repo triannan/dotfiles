@@ -1,2 +1,2 @@
 # dotfiles
-ugh.
+ugh. my personal stuffs
